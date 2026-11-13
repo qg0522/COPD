@@ -1,2 +1,2 @@
 # COPD
-data analysis scripts for the COPD project
+Scripts and programs for processing and analyzing COPD mass spectrometry data
